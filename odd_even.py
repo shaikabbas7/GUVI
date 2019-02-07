@@ -5,4 +5,4 @@ if flag == 0:
 elif flag == 1:
  print(num, "is an odd number")
 else:
- print("Error, Invalid input")
+ print("Error,Invalid input")
