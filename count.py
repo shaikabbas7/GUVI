@@ -1,4 +1,4 @@
-n = int (input())
+k = int (input())
 count = 0
 while(n>0):
 	count=count+1
