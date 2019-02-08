@@ -1,13 +1,13 @@
 while True:
 	try:
-		A,B= raw_input().split()
-		A=int(A)
-		B=int(B)
+		x,y= raw_input().split()
+		x=int(x)
+		y=int(y)
 		break
 	except:
 		print("Invalidinput")
 		break
-C=1
-for x in range(B):
-	C=C*A
-print(C)
+z=1
+for x in range(y):
+	z=z*x
+print(z)
