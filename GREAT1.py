@@ -3,8 +3,8 @@ a=int(a)
 b=int(b)
 f=int(f)
 if (a>f) and (a>b):
-    print(a)
-	elif(b>f) and (b>a):
+  	print(a)
+elif(b>f) and (b>a):
 	print(b)
- else:
+else:
 	print(f)
