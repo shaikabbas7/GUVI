@@ -1,9 +1,9 @@
 num=int(input())
 if num < 0:
- 	print("")
+ 	 print("")
 else:
- 	sum = 0
+ 	 sum = 0
  	while(num>0):
- 		sum +=num
+ 		 sum +=num
  		num -= 1
- 		print(sum)
+ 	 	print(sum)
