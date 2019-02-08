@@ -1,7 +1,7 @@
 while True:
         try:
-              t7=int(input())
-              break
+               t7=int(input())
+               break
         except:
               print('invalid')
               break
